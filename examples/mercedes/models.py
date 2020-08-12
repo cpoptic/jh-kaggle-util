@@ -16,7 +16,7 @@ from sklearn.ensemble import AdaBoostRegressor
 from sklearn.linear_model import LinearRegression
 
 # Modify the code in this function to build your own XGBoost trainers
-# It will br executed only when you run this file directly, and not when
+# It will be executed only when you run this file directly, and not when
 # you import this file from another Python script.s
 def run_xgboost():
     COMMON = {
